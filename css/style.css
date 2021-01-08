@@ -1,0 +1,26 @@
+
+.container-fluid a img{
+    width: 50px;
+    padding: 1px;
+}
+.nav-item a i {
+    color: #484848;
+    width: 2rem;
+}
+.nav-link {
+    font-size: 1rem;
+    font-style: inherit;
+}
+
+/*IMAGEM PRINCIPAL*/
+
+.container-fluid{
+    width: 100%;
+}
+
+/* COMPRAR*/
+
+.comprar{
+    margin-right: 50px;
+    
+}
