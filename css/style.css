@@ -22,3 +22,10 @@
   height: 225;
   border-radius: 5px;
 }
+
+/*FOOTER*/
+
+.footer{
+  text-decoration: none;
+  text-align: center;
+}
